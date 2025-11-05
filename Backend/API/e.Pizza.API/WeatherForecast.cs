@@ -1,4 +1,4 @@
-namespace ePizza.UI;
+namespace ePizza.API;
 
 public class WeatherForecast
 {

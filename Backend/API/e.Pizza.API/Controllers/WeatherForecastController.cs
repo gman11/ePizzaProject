@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ePizza.UI.Controllers;
+namespace ePizza.API.Controllers;
 
 [ApiController]
 [Route("[controller]")]
